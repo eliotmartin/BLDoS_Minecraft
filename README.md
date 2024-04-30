@@ -10,5 +10,8 @@
 - **Name** : BLDoS
 - **Save** : BLDoS_00
 
+## Mods
+See Mods Folder for current mods.
+
 ## Dynamic Map
 - **Address**: http://195.201.195.218:27114/?worldname=BLDoS_00
