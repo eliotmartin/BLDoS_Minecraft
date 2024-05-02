@@ -1,6 +1,6 @@
 # BLDoS_Minecraft
 
-![BLDoS](https://i.postimg.cc/XYN06q3Z/server-icon.png)
+![BLDoS](https://i.postimg.cc/Kz4FTLvK/Sprite-0004.png)
 
 ## Details
 - **Type** : Forge (forge-1.20.1-47.2.0)
